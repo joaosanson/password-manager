@@ -1,1 +1,1 @@
-Project made to create a password for an account.
+Password generator
